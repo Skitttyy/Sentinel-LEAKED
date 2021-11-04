@@ -1,2 +1,2 @@
 # Sentinel-LEAKED
-Paster tried to sell this shit DEOBFED by pk thanks to endoqa decompiler and wawd
+Paster tried to sell this shit DEOBFED by pk thanks to endoqa decompiler and wawdmod
